@@ -4,6 +4,7 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
+#The code in server.py is a Flask server with the routes /, /demo, and /sharkwords.
 
 @app.route("/")
 def homepage():

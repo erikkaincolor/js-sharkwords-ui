@@ -1,0 +1,25 @@
+PREMISE:
+
+given a random word. 
+find the value of that word by guessing the letters
+If you guess a letter that’s not in the word, 
+sharks will begin to enter the screen so be careful! 
+
+If you make 5 wrong guesses, the sharks will attack!
+
+################################################################
+ what happens when you guess a word successfully? 
+ -"congrats! you win!, click here to play again"
+ 
+ What happens when you can’t guess the word? 
+ -"picture changes of sharks getting closer to person, letters get greyed out"
+ 
+ Also since you will be building the user interface in this first part, 
+ focus on what the components of the page are. 
+ -"letters, pictures, spaces for where each letter should show itself if a letter is guessed correctly for a particular word" 
+ 
+ What things are similar and probably have the same CSS properties?
+ -gif image that changes as wrong guesses are made
+ -26 white buttins with same font and same size
+-"The shark got you! Click here to play again." <---LINK
+-"Congratulations! 🥳 You won!" <---LINK
